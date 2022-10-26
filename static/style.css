@@ -1,0 +1,12 @@
+.abc {
+  color: red;
+}
+
+.trans-off {
+  transition: none;
+  }
+
+.trans-on {
+  transition-duration: 1000ms;
+  transform: translate3d(100px, 0px, 0px);
+}

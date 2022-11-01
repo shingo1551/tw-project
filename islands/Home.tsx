@@ -48,6 +48,7 @@ export default function Home() {
         bg-gray-200
       </button>
       <button class={tw(btn1)}>red</button>
+      <button class="text-daichi">brown</button>
     </div>
   );
 }
